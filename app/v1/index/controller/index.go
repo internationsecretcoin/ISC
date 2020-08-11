@@ -4,7 +4,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"main.go/app/v1/index/model/AddressModel"
 	"main.go/app/v1/index/model/UserModel"
-	"main.go/extend/ethereum/CosCore"
+	"main.go/extend/opare/CosCore"
 	"main.go/tuuz"
 	"main.go/tuuz/Jsong"
 	"main.go/tuuz/RET"

@@ -3,7 +3,7 @@ package BlockSync
 import (
 	"fmt"
 	"main.go/app/v1/cosmos/model/BlocksModel"
-	"main.go/extend/ethereum/CosCore"
+	"main.go/extend/opare/CosCore"
 	"main.go/tuuz"
 	"main.go/tuuz/Calc"
 	"main.go/tuuz/Jsong"

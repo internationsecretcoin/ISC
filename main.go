@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
-	"main.go/extend/ethereum/BlockSync"
+	"main.go/extend/opare/BlockSync"
 	v1 "main.go/route/v1"
 	"net/http"
 )

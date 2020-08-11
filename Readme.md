@@ -1,4 +1,4 @@
-# <img src="isc.png">
+# <img src="./isc.png">
 
 # ISC-ltversion-monitor
 

@@ -1,4 +1,4 @@
-# <img src="https://github.com/tobycroft/ISC/blob/master/isc.png">
+# <img src="isc.png">
 
 # ISC-ltversion-monitor
 
